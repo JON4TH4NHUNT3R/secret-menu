@@ -1,3 +1,3 @@
 # secret-menu
 
-This is one of my side projects in developement phase. 
+In this project I have set out to copy the layout and design of AirBnB. 
